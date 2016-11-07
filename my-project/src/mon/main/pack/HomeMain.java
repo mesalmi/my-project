@@ -5,6 +5,7 @@ public class HomeMain {
     System.out.println("Hello World");
     System.out.println("TEST commit");
     System.out.println("TEST commit");
+    System.out.println("TEST commit");
   }
 
 }
